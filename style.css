@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(94, 10, 128);
+}
+h1{
+    color: gold;
+    font-size: 80px;
+    font-style: italic;
+    text-transform: unset;
+}
+p{
+    color: blue;
+}
+.good{
+    color: aqua;
+}
+
+#qw1{
+color: black;
+}
+.ctt{
+color: aqua;
+}
