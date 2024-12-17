@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(94, 10, 128);
+    background-color: cadetblue;
 }
 h1{
     color: gold;
@@ -19,4 +19,21 @@ color: black;
 }
 .ctt{
 color: aqua;
+}
+#yolo{
+    color: brown;
+    background-color: yellow;
+    margin-left: 100px;
+    height: 80%;
+    width: 80%;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin: 10%;
+    font-size: 130px;
+    border: 15px solid rgb(202, 58, 58);
+    border-style: double;
+    text-align: center;
+
 }
